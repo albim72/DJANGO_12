@@ -1,1 +1,3 @@
-
+Utworzenie nowego pliku oferta.html
+dopisanie funkcji oferta do pliku views.py
+dodadnia ścieżki w urls.py
