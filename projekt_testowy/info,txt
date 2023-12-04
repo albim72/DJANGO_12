@@ -1,0 +1,4 @@
+1. wejdź w terminal i wpisz komemndę: python manage.py migrate
+2. wprowadż komendę: python manage.py createsuperuser
+3. Nastpnie wprodzaź: użytkownika, mail i hasło
+4. Uruchom serwer (run) (python manage.py runserver)
