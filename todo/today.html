@@ -1,11 +1,10 @@
 {% extends "base.html" %}
 {%  block content %}
-<h1>Zadania do wykonania:</h1>
+<h1>Zadania do wykonania dzisiaj:</h1>
 <table>
     {% for item in object_list %}
     <tr>
         <td>{{ item.text }}</td>
-        <td>{{ item.due_date }}</td>
     </tr>
 
     {% endfor %}
