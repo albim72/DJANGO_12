@@ -14,6 +14,7 @@ urlpatterns = [
     path('contact/', views.contact, name='contact'),
     path('about/', views.about, name='about'),
     path('oferta/', views.oferta, name='oferta'),
+    path('oferta_1/', views.oferta_1, name='oferta_1'),
     path('login/',
          LoginView.as_view
          (
