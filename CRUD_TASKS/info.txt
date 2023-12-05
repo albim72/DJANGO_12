@@ -1,0 +1,5 @@
+1. Utworzenie projektu z aplikacją tasks, migracja aplikacji oraz utworzenie superusera
+2. Zmiana strefy czasowej i języka na Polski w settings.py
+3. Utworzenie w katalogu tasks pliku forms.py
+4. Utworzenie modelu w pliku models.py, migracja modelu (CTRL+ALT+R) -> makemigrations
+5. Utworzenie katalogu tasks w templates i czterech widoków (html)
